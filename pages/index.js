@@ -32,8 +32,8 @@ export default function Home() {
           title: "Home | Algospace",
           description: "A algorithm visualizer for understanding algorithms",
           profile: {
-            firstName: "Rahul",
-            lastName: "Biswakarma",
+            firstName: "Ishu",
+            lastName: "Chaudhary",
           },
           images: [
             {
@@ -47,7 +47,7 @@ export default function Home() {
           siteName: "Algospace",
         }}
         twitter={{
-          handle: "@rahul_7298",
+          handle: "@IshuRChaudhary",
           cardType: "summary_large_image",
         }}
       />

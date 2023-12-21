@@ -20,8 +20,8 @@ export default function Seo({ category, id }) {
               title: currAlgoData.metaTitle,
               description: currAlgoData.description,
               profile: {
-                firstName: "Rahul",
-                lastName: "Biswakarma",
+                firstName: "Ishu",
+                lastName: "Chaudhary",
               },
               images: [
                 {
@@ -35,7 +35,7 @@ export default function Seo({ category, id }) {
               siteName: "Algospace",
             }}
             twitter={{
-              handle: "@rahul_7298",
+              handle: "@IshuRChaudhary",
               cardType: "summary_large_image",
             }}
           />
